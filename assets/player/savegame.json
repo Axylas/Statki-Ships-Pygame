@@ -1,0 +1,509 @@
+{
+    "player_ships": [
+        {
+            "id": "c6d7b7a9-9932-4a8d-b3ae-597ad421a5a3",
+            "length": 1,
+            "x": 680,
+            "y": 370,
+            "horizontal": false,
+            "is_new": false
+        },
+        {
+            "id": "00cdc050-13a1-4104-aac7-87e9dbbbf721",
+            "length": 1,
+            "x": 920,
+            "y": 250,
+            "horizontal": false,
+            "is_new": false
+        },
+        {
+            "id": "39005841-be33-4a50-b5dc-4e365d874dd6",
+            "length": 2,
+            "x": 740,
+            "y": 490,
+            "horizontal": true,
+            "is_new": false
+        },
+        {
+            "id": "935affd5-3319-4506-b8f0-c5283ec96335",
+            "length": 2,
+            "x": 800,
+            "y": 670,
+            "horizontal": true,
+            "is_new": false
+        },
+        {
+            "id": "7031ea7e-34e5-4ed9-8790-6dad69f1868a",
+            "length": 3,
+            "x": 500,
+            "y": 310,
+            "horizontal": false,
+            "is_new": false
+        },
+        {
+            "id": "57b90d3b-b030-4c7d-942a-04e0c2c785f0",
+            "length": 4,
+            "x": 920,
+            "y": 490,
+            "horizontal": false,
+            "is_new": false
+        },
+        {
+            "id": "f43690f0-a994-4333-9f0e-fcf3580f6aee",
+            "length": 5,
+            "x": 560,
+            "y": 130,
+            "horizontal": false,
+            "is_new": false
+        }
+    ],
+    "computer_ships": [
+        {
+            "id": "7df2a87e-4b47-4548-b059-76131b4023b1",
+            "length": 5,
+            "x": 620,
+            "y": 130,
+            "horizontal": true,
+            "is_new": true
+        },
+        {
+            "id": "c43ff38e-f9fb-40b6-a5f7-efeb976ea52f",
+            "length": 4,
+            "x": 500,
+            "y": 550,
+            "horizontal": true,
+            "is_new": true
+        },
+        {
+            "id": "2d80f9d1-5a80-4863-9c23-ee9e83edd96a",
+            "length": 3,
+            "x": 500,
+            "y": 490,
+            "horizontal": true,
+            "is_new": true
+        },
+        {
+            "id": "4aac0d31-4a72-4917-913f-9f605f59fd6d",
+            "length": 2,
+            "x": 920,
+            "y": 130,
+            "horizontal": true,
+            "is_new": true
+        },
+        {
+            "id": "eadb36bd-e8df-4e7e-b9cb-7b272db0f746",
+            "length": 2,
+            "x": 800,
+            "y": 370,
+            "horizontal": true,
+            "is_new": true
+        },
+        {
+            "id": "647bbfc7-6f4a-457a-84e4-f82b5a779e8e",
+            "length": 1,
+            "x": 740,
+            "y": 490,
+            "horizontal": false,
+            "is_new": true
+        },
+        {
+            "id": "41d4830a-be0d-4285-9e65-d5fc5450d1e3",
+            "length": 1,
+            "x": 500,
+            "y": 370,
+            "horizontal": true,
+            "is_new": true
+        }
+    ],
+    "difficulty": "Trudny",
+    "player_board": [
+        [
+            "M",
+            "M",
+            "M",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    ],
+    "computer_board": [
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "",
+            "",
+            "M",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "M",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "",
+            "M",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    ],
+    "current_turn": "player",
+    "computer_hits": [],
+    "computer_misses": [
+        [
+            4,
+            4
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            7,
+            1
+        ],
+        [
+            0,
+            1
+        ],
+        [
+            1,
+            2
+        ],
+        [
+            0,
+            2
+        ]
+    ],
+    "target_mode": false,
+    "consecutive_misses": 0,
+    "active_player_ships": [
+        {
+            "id": "c6d7b7a9-9932-4a8d-b3ae-597ad421a5a3",
+            "length": 1,
+            "x": 680,
+            "y": 370,
+            "horizontal": false,
+            "is_new": false
+        },
+        {
+            "id": "00cdc050-13a1-4104-aac7-87e9dbbbf721",
+            "length": 1,
+            "x": 920,
+            "y": 250,
+            "horizontal": false,
+            "is_new": false
+        },
+        {
+            "id": "39005841-be33-4a50-b5dc-4e365d874dd6",
+            "length": 2,
+            "x": 740,
+            "y": 490,
+            "horizontal": true,
+            "is_new": false
+        },
+        {
+            "id": "935affd5-3319-4506-b8f0-c5283ec96335",
+            "length": 2,
+            "x": 800,
+            "y": 670,
+            "horizontal": true,
+            "is_new": false
+        },
+        {
+            "id": "7031ea7e-34e5-4ed9-8790-6dad69f1868a",
+            "length": 3,
+            "x": 500,
+            "y": 310,
+            "horizontal": false,
+            "is_new": false
+        },
+        {
+            "id": "57b90d3b-b030-4c7d-942a-04e0c2c785f0",
+            "length": 4,
+            "x": 920,
+            "y": 490,
+            "horizontal": false,
+            "is_new": false
+        },
+        {
+            "id": "f43690f0-a994-4333-9f0e-fcf3580f6aee",
+            "length": 5,
+            "x": 560,
+            "y": 130,
+            "horizontal": false,
+            "is_new": false
+        }
+    ],
+    "active_computer_ships": [
+        {
+            "id": "7df2a87e-4b47-4548-b059-76131b4023b1",
+            "length": 5,
+            "x": 620,
+            "y": 130,
+            "horizontal": true,
+            "is_new": true
+        },
+        {
+            "id": "c43ff38e-f9fb-40b6-a5f7-efeb976ea52f",
+            "length": 4,
+            "x": 500,
+            "y": 550,
+            "horizontal": true,
+            "is_new": true
+        },
+        {
+            "id": "2d80f9d1-5a80-4863-9c23-ee9e83edd96a",
+            "length": 3,
+            "x": 500,
+            "y": 490,
+            "horizontal": true,
+            "is_new": true
+        },
+        {
+            "id": "4aac0d31-4a72-4917-913f-9f605f59fd6d",
+            "length": 2,
+            "x": 920,
+            "y": 130,
+            "horizontal": true,
+            "is_new": true
+        },
+        {
+            "id": "eadb36bd-e8df-4e7e-b9cb-7b272db0f746",
+            "length": 2,
+            "x": 800,
+            "y": 370,
+            "horizontal": true,
+            "is_new": true
+        },
+        {
+            "id": "647bbfc7-6f4a-457a-84e4-f82b5a779e8e",
+            "length": 1,
+            "x": 740,
+            "y": 490,
+            "horizontal": false,
+            "is_new": true
+        },
+        {
+            "id": "41d4830a-be0d-4285-9e65-d5fc5450d1e3",
+            "length": 1,
+            "x": 500,
+            "y": 370,
+            "horizontal": true,
+            "is_new": true
+        }
+    ]
+}
